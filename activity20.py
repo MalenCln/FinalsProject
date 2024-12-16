@@ -5,6 +5,7 @@ while isContinue == True:
     ask = input("Would you like to add another triangle? (yes/no)---> ")
     
     if ask.lower() == "no":
+        os.system("cls")
         print("Program stopped")
         break
         iscontinue = False
@@ -19,3 +20,4 @@ while isContinue == True:
                     print(" ", end=" ")
             print()
         continue
+    
