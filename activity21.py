@@ -18,6 +18,8 @@ while tuloy == True:
         break
     else:
         pang_hello2(ask)
+
+
         
 
 
