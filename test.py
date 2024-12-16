@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # def add(num1, num2):
 #     print(f"the sum of {num1} and {num2} is {x}")
@@ -65,3 +66,17 @@ if a.lower() == "yes":
 		print ("The total amount of you purchase is", aprice,)
 else:
 	print ('Please buy our productssssssss')
+=======
+
+def add(num1, num2):
+    print(f"the sum of {num1} and {num2} is {x}")
+    num1 + num2 = x
+    return x
+
+def sub(num1, num2):
+    print(f"the difference of {num1} and {num2} is {x}")
+    x = num1 - num2
+    return
+
+add("32", "4")
+>>>>>>> 41c002e0846cbfe99df7dfbe5626739aaeacf2a5
